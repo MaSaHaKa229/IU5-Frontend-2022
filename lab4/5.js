@@ -34,5 +34,5 @@ function checkBrackets(str) {
         return Boolean(0);
     }
 }
-//({}()())<>   {(})
+
 module.exports = checkBrackets;
